@@ -15,6 +15,7 @@ call :WriteVBS "Text to write !~"
 
 # Can I use other keys than letters?
 Of course you can! There is a list of all you can include:
+
 Key | Code
 --- | ---
 ```Backspace``` | {BACKSPACE}, {BKSP} or {BS}
